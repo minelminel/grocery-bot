@@ -1,0 +1,352 @@
+[
+    {
+        "category": "Baking",
+        "name": "Baking Powder",
+        "value": 0,
+        "id": 0,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Baking Soda",
+        "value": 0,
+        "id": 1,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Flour",
+        "value": 0,
+        "id": 2,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Pepper",
+        "value": 0,
+        "id": 3,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Salt",
+        "value": 0,
+        "id": 4,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Sugar",
+        "value": 0,
+        "id": 5,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Vanilla",
+        "value": 0,
+        "id": 6,
+        "purchased": false
+    },
+    {
+        "category": "Baking",
+        "name": "Yeast",
+        "value": 0,
+        "id": 7,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Bread",
+        "value": 0,
+        "id": 8,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Butter",
+        "value": 0,
+        "id": 9,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Cheese",
+        "value": 0,
+        "id": 10,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Eggs",
+        "value": 0,
+        "id": 11,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Milk",
+        "value": 0,
+        "id": 12,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Oil",
+        "value": 0,
+        "id": 13,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Orange Juice",
+        "value": 0,
+        "id": 14,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Seltzer",
+        "value": 0,
+        "id": 15,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Turkey",
+        "value": 0,
+        "id": 16,
+        "purchased": false
+    },
+    {
+        "category": "Basics",
+        "name": "Yogurt",
+        "value": 0,
+        "id": 17,
+        "purchased": false
+    },
+    {
+        "category": "Condiments",
+        "name": "Dressing",
+        "value": 0,
+        "id": 18,
+        "purchased": false
+    },
+    {
+        "category": "Condiments",
+        "name": "Hot Sauce",
+        "value": 0,
+        "id": 19,
+        "purchased": false
+    },
+    {
+        "category": "Condiments",
+        "name": "Hummus",
+        "value": 0,
+        "id": 20,
+        "purchased": false
+    },
+    {
+        "category": "Condiments",
+        "name": "Mayo",
+        "value": 0,
+        "id": 21,
+        "purchased": false
+    },
+    {
+        "category": "Condiments",
+        "name": "Steak Sauce",
+        "value": 0,
+        "id": 22,
+        "purchased": false
+    },
+    {
+        "category": "Fruit",
+        "name": "Apples",
+        "value": 0,
+        "id": 23,
+        "purchased": false
+    },
+    {
+        "category": "Fruit",
+        "name": "Bananas",
+        "value": 0,
+        "id": 24,
+        "purchased": false
+    },
+    {
+        "category": "Meat",
+        "name": "Chicken",
+        "value": 0,
+        "id": 25,
+        "purchased": false
+    },
+    {
+        "category": "Meat",
+        "name": "Ground Beef",
+        "value": 0,
+        "id": 26,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Beans",
+        "value": 0,
+        "id": 27,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Cereal",
+        "value": 0,
+        "id": 28,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Coffee",
+        "value": 0,
+        "id": 29,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Marinara",
+        "value": 0,
+        "id": 30,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Oats",
+        "value": 0,
+        "id": 31,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Pasta",
+        "value": 0,
+        "id": 32,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Rice",
+        "value": 0,
+        "id": 33,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Soup",
+        "value": 0,
+        "id": 34,
+        "purchased": false
+    },
+    {
+        "category": "Pantry",
+        "name": "Tea",
+        "value": 0,
+        "id": 35,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Cleaning Spray",
+        "value": 0,
+        "id": 36,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Coffee Filters",
+        "value": 0,
+        "id": 37,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Dish Pods",
+        "value": 0,
+        "id": 38,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Dish Soap",
+        "value": 0,
+        "id": 39,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Garbage Bags",
+        "value": 0,
+        "id": 40,
+        "purchased": false
+    },
+    {
+        "category": "Supplies",
+        "name": "Paper Towels",
+        "value": 0,
+        "id": 41,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Avocado",
+        "value": 0,
+        "id": 42,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Broccoli",
+        "value": 0,
+        "id": 43,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Carrots",
+        "value": 0,
+        "id": 44,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Garlic",
+        "value": 0,
+        "id": 45,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Lettuce",
+        "value": 0,
+        "id": 46,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Mushrooms",
+        "value": 0,
+        "id": 47,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Onion",
+        "value": 0,
+        "id": 48,
+        "purchased": false
+    },
+    {
+        "category": "Veggies",
+        "name": "Tomato",
+        "value": 0,
+        "id": 49,
+        "purchased": false
+    }
+]
